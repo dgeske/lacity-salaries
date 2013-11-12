@@ -1,3 +1,3 @@
-lacity-salaries
-===============
-A parser of City of Los Angeles employee jobs based on scrapy.
+City of Los Angeles Employees
+=============================
+A parser of City of Los Angeles employees based on scrapy.
